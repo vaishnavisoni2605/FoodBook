@@ -6,6 +6,7 @@
 - [Expo Demo](#expo-demo)
 - [App Features](#app-features)
 - [Screens](#screens)
+    - [FoodBook Screen](#foodbook-screen)
     - [Home Screen](#home-screen)
     - [Recipe Screen](#recipe-screen)
     - [Ingredients Details Screen](#ingredients-details-screen)
@@ -42,6 +43,9 @@ Scan the below OR code in Expo Client App to open project on Android.
 - Ingredients List
 
 ## Screens
+### FoodBook Screen
+The main page of the application
+<img src="assests/screenshots/FoodBook.PNG" width="270">
 ### Home Screen
 Home Screen consists of all the recipes available on the app
 ### Recipe Screen
