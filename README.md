@@ -47,12 +47,22 @@ Scan the below OR code in Expo Client App to open project on Android.
 The main page of the application
 
 <img src="assests/screenshots/FoodBook.PNG" width="270">
+
 ### Home Screen
 Home Screen consists of all the recipes available on the app
+
+<img src="assests/screenshots/HomeScreen.PNG" width ="270"><img src="assests/screenshots/HomeScreen1.PNG" width ="270">
+
 ### Recipe Screen
 When user click on any food item on the home screen it will take the user to recipe screen. Here the user can find detailed recipe of that food item.
+
+<img src="assests/screenshots/RecipeScreen.PNG" width="270"><img src="assests/screenshots/RecipeScreen1.PNG"width="270">
+    
 ### Ingredients Details Screen
 On the recipe screen when the user click view ingredients button it will take the user to the ingredients details screen where all the ingredients used in that food item is listed.
+
+<img src="assests/screenshots/IngredientsScreen.PNG" width="270"><img src="assests/screenshots/IngredientsScreen1.PNG" width="270">
+
 
 ## Files
 ### Components
