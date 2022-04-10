@@ -7,11 +7,7 @@ const styles = StyleSheet.create({
     backgroundColor: 'white',
     flex: 1
   },
-  carouselContainer: {
-    minHeight: 250
-  },
-  carousel: {},
-
+  
   image: {
     ...StyleSheet.absoluteFillObject,
     width: '100%',
@@ -22,19 +18,6 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     width: viewportWidth,
     height: 250
-  },
-  paginationContainer: {
-    flex: 1,
-    position: 'absolute',
-    alignSelf: 'center',
-    paddingVertical: 8,
-    marginTop: 200
-  },
-  paginationDot: {
-    width: 8,
-    height: 8,
-    borderRadius: 4,
-    marginHorizontal: 0
   },
   infoRecipeContainer: {
     flex: 1,
