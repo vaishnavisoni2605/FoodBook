@@ -89,7 +89,7 @@ Due to time limit of the semester I have only implemented few features. There ar
 Also any other suggestions for developing this application is always very welcome!
 
 ## Contact Author
-[Vaishnavi Soni]()
+[Vaishnavi Soni](https://github.com/vaishnavisoni2605)
 
 ## References
 
