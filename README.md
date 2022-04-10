@@ -5,6 +5,7 @@
 - [Getting Started](#getting-started)
 - [Expo Demo](#expo-demo)
 - [App Features](#app-features)
+- [App Preview](#app-preview)
 - [Screens](#screens)
     - [FoodBook Screen](#foodbook-screen)
     - [Home Screen](#home-screen)
@@ -19,6 +20,7 @@
 - [Contributing](#contributing)
 - [Contact Author](#contact-author)
 - [References](#references)
+- [Licence](#licence)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -41,6 +43,9 @@ Scan the below OR code in Expo Client App to open project on Android.
 - Step by Step process of recipes
 - Photos
 - Ingredients List
+
+## App Preview
+Short Preview of my application
 
 ## Screens
 ### FoodBook Screen
@@ -109,6 +114,10 @@ Also any other suggestions for developing this application is always very welcom
 ## References
 
 I have prepared my database with the help of [Food Viva](https://foodviva.com/).
+
+## Licence
+
+[MIT](https://github.com/vaishnavisoni2605/FoodBook/blob/main/LICENSE)
 
 ## Acknowledgements
 
