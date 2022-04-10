@@ -28,7 +28,7 @@
 FoodBook is the application where you can find step by step recipes for different vegetarian dishes with the ingredients list. The goal of creating this software was to tackle the problem of people who move to various countries for  their carrier or studies and don't know how to cook. With this app, they can simply learn how to cook. Moreover, this is my final project of my CS 855 Mobile Computing class where we have to build an react application.
 
 ## Getting Started
-To clone this project on [Expo Dev](https://expo.dev) just copy the link of the code from the code section and clone it into the new snack in expo dev.
+To clone this project on Expo Dev just copy the link of the code from the code section and clone it into the new snack in expo dev.
 
 This project is built using expo so to run this app locally:
 1. Install the latest Node
