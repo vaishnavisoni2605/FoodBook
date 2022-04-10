@@ -53,6 +53,8 @@ Scan the below OR code in Expo Client App to open project on IOS.
 ## App Preview
 Short Preview of my application
 
+<img src="assests/screenshots/preview.mp4" width ="270">
+
 ## Screens
 ### FoodBook Screen
 The main page of the application
