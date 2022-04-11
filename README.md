@@ -1,6 +1,6 @@
 # FoodBook 
 
-<img src="https://diatomenterprises.com/wp-content/uploads/2018/01/%5EDE43FFAEAA785426ED5F10934C4496111606FF1C48B8A228A8%5Epimgpsh_fullsize_distr.jpg" width="300">  <img src="assests/screenshots/expo1.jpg" width="300">  <img src="assests/screenshots/1.png" width="300">
+<img src="https://diatomenterprises.com/wp-content/uploads/2018/01/%5EDE43FFAEAA785426ED5F10934C4496111606FF1C48B8A228A8%5Epimgpsh_fullsize_distr.jpg" width="300">  <img src="assests/screenshots/expo2.png" width="300">  <img src="assests/screenshots/1.png" width="300">
 
 <img src="assests/screenshots/pic1.png" width="910" height="510">
 
