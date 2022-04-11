@@ -1,9 +1,8 @@
 # FoodBook 
 
-<img src="https://diatomenterprises.com/wp-content/uploads/2018/01/%5EDE43FFAEAA785426ED5F10934C4496111606FF1C48B8A228A8%5Epimgpsh_fullsize_distr.jpg" width="270">  <img src="assests/screenshots/pic1.png" width="540" height="270">
+<img src="https://diatomenterprises.com/wp-content/uploads/2018/01/%5EDE43FFAEAA785426ED5F10934C4496111606FF1C48B8A228A8%5Epimgpsh_fullsize_distr.jpg" width="270">  <img src="assests/screenshots/pic1.png" width="540" height="540">
 
 
-<img src="
 ## Content 
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
