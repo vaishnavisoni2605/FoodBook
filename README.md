@@ -17,6 +17,7 @@
     - [Screens](#screens)
     - [Data](#data)
     - [Navigations](#navigations)
+- [Building App Instructions](#building-app-instructions)
 - [Contributing](#contributing)
 - [Contact Author](#contact-author)
 - [References](#references)
@@ -43,6 +44,8 @@ To clone this app in your local machine simply download the zip file or copy the
 Scan the below OR code in Expo Client App to open project on IOS.
 
 <img src="assests/screenshots/QR Code.png" width ="270">
+
+To run this application on android devices there are some changes to make in the code as I have used IOS styling e.g., Fontfamily. 
 
 ## App Features
 - Recipes list
@@ -106,6 +109,9 @@ Previously my plan was to build a database in Firebase for my project but due to
 ### Navigations
 `src/navigations/`
 - `AppNavigation.js` - Here the function MainNavigator which consists of all the screens is exported.
+
+## Building App Instructions
+To build a app with Expo checkout the installation instructions [here](https://docs.expo.dev/classic/building-standalone-apps/).
 
 ## Contributing
 
